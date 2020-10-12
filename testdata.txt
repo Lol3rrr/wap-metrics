@@ -1,0 +1,57 @@
+Station 24:2e:02:9e:c3:dc (on wlan0)
+	inactive time:	1000 ms
+	rx bytes:	2027817
+	rx packets:	14089
+	tx bytes:	93137710
+	tx packets:	338843
+	tx failed:	0
+	signal:  	-54 [-54] dBm
+	tx bitrate:	72.2 MBit/s
+	rx bitrate:	6.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	WMM/WME:	no
+	TDLS peer:	yes
+	DTIM period:	2
+	beacon interval:100
+	short slot time:yes
+	connected time:	306 seconds
+Station 56:93:75:f7:4e:a0 (on wlan0)
+	inactive time:	6000 ms
+	rx bytes:	13757419
+	rx packets:	93510
+	tx bytes:	243981940
+	tx packets:	448797
+	tx failed:	75
+	signal:  	-65 [-65] dBm
+	tx bitrate:	48.0 MBit/s
+	rx bitrate:	48.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	WMM/WME:	no
+	TDLS peer:	yes
+	DTIM period:	2
+	beacon interval:100
+	short slot time:yes
+	connected time:	11188 seconds
+Station 86:bb:c8:d7:85:b9 (on wlan0)
+	inactive time:	3000 ms
+	rx bytes:	12094050
+	rx packets:	66153
+	tx bytes:	167793730
+	tx packets:	403897
+	tx failed:	539
+	signal:  	-64 [-64] dBm
+	tx bitrate:	65.0 MBit/s
+	rx bitrate:	1.0 MBit/s
+	authorized:	yes
+	authenticated:	yes
+	associated:	yes
+	WMM/WME:	no
+	TDLS peer:	yes
+	DTIM period:	2
+	beacon interval:100
+	short slot time:yes
+	connected time:	15254 seconds
