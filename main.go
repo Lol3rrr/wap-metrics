@@ -119,8 +119,8 @@ func convertToStations(lines []string) []Station {
       if i > 0 {
         result = append(result, tmpStation)
       }
-      address := macAddressRegex.FindString(line)
-      tmpStation.MAC = address
+
+      tmpStation.MAC := macAddressRegex.FindString(line)
       continue
     }
     // Get the current RX-Bytes
